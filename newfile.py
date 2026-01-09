@@ -1,3 +1,4 @@
 word = input("Please enter a word")
-ascii_val = ord(word)
-print(ascii_val)
+value = 0
+for i in range(len(word):
+    value += ord(word[i])
